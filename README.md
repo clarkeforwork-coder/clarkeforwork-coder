@@ -69,4 +69,4 @@
 
 &nbsp;
 
-<img src="assets/taiwan-skyline.png" alt="Taipei skyline — Taiwan" width="100%" />
+<img src="assets/kaohsiung-skyline.png" alt="Kaohsiung skyline — Taiwan" width="100%" />

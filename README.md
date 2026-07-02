@@ -2,7 +2,7 @@
 
 <img src="header.gif" alt="Hello there, I'm Clarke — Backend Developer & Team Lead" width="800" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/yeh-clarke-879532143/">
   <img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=010604" alt="LinkedIn" />
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-## `~/tech-stack`
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 &nbsp;
 
-## `~/github-stats`
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 &nbsp;
 
-## `~/trophies`
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 &nbsp;
 
-## `~/featured`
+## 🖥 &nbsp;Featured Project
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 &nbsp;
 
-## `~/recent-activity`
+## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
 1. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
@@ -81,7 +81,7 @@
 
 &nbsp;
 
-## `~/contribution-snake`
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 &nbsp;
 
-## `~/now-playing`
+## 🎧 &nbsp;Now Playing
 
 <div align="center">
 

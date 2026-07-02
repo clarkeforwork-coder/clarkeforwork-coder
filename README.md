@@ -68,3 +68,11 @@
 5. Pushed to [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
 6. Created branch `main` in [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
 <!--END_SECTION:activity-->
+
+&nbsp;
+
+<div align="center">
+
+<img src="assets/taiwan-skyline.png" alt="Taipei skyline — Taiwan" width="100%" />
+
+</div>

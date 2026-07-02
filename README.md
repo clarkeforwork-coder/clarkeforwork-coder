@@ -30,6 +30,13 @@
 
 &nbsp;
 
+## ⌨️ &nbsp;Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+&nbsp;
+
 ## 🏆 &nbsp;Trophies
 
 <img src="https://github-profile-trophy-three-silk.vercel.app/?username=clarkeforwork-coder&theme=matrix&column=8&margin-w=8&margin-h=8&no-bg=true" alt="GitHub trophies" width="100%" />

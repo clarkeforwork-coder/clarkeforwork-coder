@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 1. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-2. Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. Starred [CyrisXD/CyrisXD](https://github.com/CyrisXD/CyrisXD)
-4. Created branch `main` in [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-5. Pushed to [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
-6. Created branch `main` in [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
+2. Starred [clarkeforwork-coder/novatorem](https://github.com/clarkeforwork-coder/novatorem)
+3. Starred [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
+4. Forked [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+5. Pushed to [clarkeforwork-coder/novatorem](https://github.com/clarkeforwork-coder/novatorem)
+6. Forked [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 &nbsp;

@@ -62,11 +62,11 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 1. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-2. Starred [clarkeforwork-coder/novatorem](https://github.com/clarkeforwork-coder/novatorem)
-3. Starred [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-4. Forked [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-5. Pushed to [clarkeforwork-coder/novatorem](https://github.com/clarkeforwork-coder/novatorem)
-6. Forked [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. Starred [clarkeforwork-coder/github-profile-trophy](https://github.com/clarkeforwork-coder/github-profile-trophy)
+3. Starred [clarkeforwork-coder/github-readme-stats](https://github.com/clarkeforwork-coder/github-readme-stats)
+4. Starred [clarkeforwork-coder/novatorem](https://github.com/clarkeforwork-coder/novatorem)
+5. Starred [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
+6. Forked [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
 
 &nbsp;

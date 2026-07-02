@@ -30,18 +30,6 @@
 
 &nbsp;
 
-## `~/featured`
-
-<div align="center">
-
-<a href="https://github.com/clarkeforwork-coder/gmail-auto-classifter">
-  <img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=gmail-auto-classifter&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="gmail-auto-classifter" />
-</a>
-
-</div>
-
-&nbsp;
-
 ## `~/github-stats`
 
 <div align="center">
@@ -68,12 +56,12 @@
 
 &nbsp;
 
-## `~/now-playing`
+## `~/featured`
 
 <div align="center">
 
-<a href="https://novatorem-tawny-phi.vercel.app/redirect">
-  <img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="500" />
+<a href="https://github.com/clarkeforwork-coder/gmail-auto-classifter">
+  <img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=gmail-auto-classifter&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="gmail-auto-classifter" />
 </a>
 
 </div>
@@ -98,6 +86,18 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/clarkeforwork-coder/clarkeforwork-coder/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+&nbsp;
+
+## `~/now-playing`
+
+<div align="center">
+
+<a href="https://novatorem-tawny-phi.vercel.app/redirect">
+  <img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="500" />
+</a>
 
 </div>
 

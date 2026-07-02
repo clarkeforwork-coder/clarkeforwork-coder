@@ -54,31 +54,25 @@ for (x, w, h) in front:
     city.append(f'<rect x="{x:.1f}" y="{top:.1f}" width="{w:.1f}" height="2.5" fill="#8dffc0" opacity="0.9"/>')  # lit top edge
     city.append(windows(x, w, top, GY))
 
-# ---- 85 Sky Tower (高 shape): two side prongs + central spire ----
-cx = 480
-TOP = 44
-side_top = GY - 128
-merge_top = GY - 26           # lower third merged (base of 高); low merge = tall sky-gaps
-c_hw, s_w, gap = 17, 22, 20
-# merged base
-city.append(rect(cx - (c_hw + gap + s_w), merge_top, 2 * (c_hw + gap + s_w), GY - merge_top, "url(#g85)"))
-# left & right prongs
-city.append(rect(cx - c_hw - gap - s_w, side_top, s_w, GY - side_top, "url(#g85)"))
-city.append(rect(cx + c_hw + gap, side_top, s_w, GY - side_top, "url(#g85)"))
-# crossbars linking prongs to centre -> encloses two "口" openings (高 shape)
-city.append(rect(cx - c_hw - gap, side_top, gap, 12, "url(#g85)"))
-city.append(rect(cx + c_hw, side_top, gap, 12, "url(#g85)"))
-# central tower (tallest)
-city.append(rect(cx - c_hw, TOP, 2 * c_hw, GY - TOP, "url(#g85)"))
+# ---- 85 Sky Tower: single upper shaft that splits into two legs (iconic central void) ----
+cx = 470
+TOP = 36
+merge_y = GY - 84             # legs split off below here
+hw, leg_w = 25, 12
+# upper single shaft
+city.append(rect(cx - hw, TOP, 2 * hw, merge_y - TOP, "url(#g85)"))
+# two legs; the gap between them (cx-13 .. cx+13) is the see-through void
+city.append(rect(cx - hw, merge_y, leg_w, GY - merge_y, "url(#g85)"))
+city.append(rect(cx + hw - leg_w, merge_y, leg_w, GY - merge_y, "url(#g85)"))
 # tapered cap + antenna
-city.append(f'<polygon points="{cx-c_hw},{TOP} {cx+c_hw},{TOP} {cx+7},{TOP-16} {cx-7},{TOP-16}" fill="url(#g85)"/>')
-city.append(f'<rect x="{cx-1.5}" y="{TOP-52}" width="3" height="36" fill="#0f8"/>')
-city.append(f'<circle cx="{cx}" cy="{TOP-54}" r="3.2" fill="#aaffcc"/>')
-# lit left edges (3D) + a few windows on central
-city.append(f'<rect x="{cx-c_hw}" y="{TOP}" width="2.5" height="{GY-TOP}" fill="#8dffc0" opacity="0.85"/>')
-city.append(f'<rect x="{cx-c_hw-gap-s_w}" y="{side_top}" width="2" height="{GY-side_top}" fill="#7dffb0" opacity="0.7"/>')
-city.append(f'<rect x="{cx+c_hw+gap}" y="{side_top}" width="2" height="{GY-side_top}" fill="#7dffb0" opacity="0.7"/>')
-city.append(windows(cx - c_hw, 2 * c_hw, TOP + 20, GY, step=12))
+city.append(f'<polygon points="{cx-hw},{TOP} {cx+hw},{TOP} {cx+8},{TOP-18} {cx-8},{TOP-18}" fill="url(#g85)"/>')
+city.append(f'<rect x="{cx-1.5}" y="{TOP-56}" width="3" height="38" fill="#0f8"/>')
+city.append(f'<circle cx="{cx}" cy="{TOP-58}" r="3.2" fill="#aaffcc"/>')
+# lit left edges (3D) + windows on the upper shaft
+city.append(f'<rect x="{cx-hw}" y="{TOP}" width="2.5" height="{merge_y-TOP}" fill="#8dffc0" opacity="0.85"/>')
+city.append(f'<rect x="{cx-hw}" y="{merge_y}" width="2" height="{GY-merge_y}" fill="#7dffb0" opacity="0.7"/>')
+city.append(f'<rect x="{cx+hw-leg_w}" y="{merge_y}" width="2" height="{GY-merge_y}" fill="#7dffb0" opacity="0.6"/>')
+city.append(windows(cx - hw, 2 * hw, TOP + 16, merge_y - 6, step=12))
 
 # ---- Kaohsiung Eye ferris wheel (right, on a mall block) ----
 wx, wy, r = 700, GY - 96, 40

@@ -83,6 +83,16 @@
 
 &nbsp;
 
+## `~/contribution-snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/clarkeforwork-coder/clarkeforwork-coder/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+&nbsp;
+
 <div align="center">
 
 <img src="assets/taiwan-skyline.png" alt="Taipei skyline — Taiwan" width="100%" />

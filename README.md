@@ -1,12 +1,14 @@
+<div align="center">
+
 <img src="header.gif" alt="Hello there, I'm Clarke — Backend Developer & Team Lead" width="800" />
 
-<br/>
+</div>
 
 <a href="https://www.linkedin.com/in/yeh-clarke-879532143/">
-  <img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=010604" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-0a5c2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010604" alt="LinkedIn" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=00ff41&style=for-the-badge&label=VISITORS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=0a5c2e&style=for-the-badge&label=%F0%9F%91%81%20Visitors" alt="Profile views" />
 
 &nbsp;
 

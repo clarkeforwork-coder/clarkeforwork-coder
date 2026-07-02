@@ -58,6 +58,18 @@
 
 &nbsp;
 
+## `~/now-playing`
+
+<div align="center">
+
+<a href="https://novatorem-tawny-phi.vercel.app/redirect">
+  <img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="500" />
+</a>
+
+</div>
+
+&nbsp;
+
 ## `~/recent-activity`
 
 <!--START_SECTION:activity-->

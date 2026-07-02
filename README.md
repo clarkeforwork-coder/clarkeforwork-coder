@@ -65,9 +65,7 @@
 
 ## 🎧 &nbsp;Now Playing
 
-<a href="https://novatorem-tawny-phi.vercel.app/redirect">
-  <img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="500" />
-</a>
+<a href="https://novatorem-tawny-phi.vercel.app/redirect"><img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="100%" /></a>
 
 &nbsp;
 

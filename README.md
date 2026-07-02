@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/yeh-clarke-879532143/">
   <img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=010604" alt="LinkedIn" />
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=00ff41&style=for-the-badge&label=VISITORS" alt="Profile views" />
 
 </div>
 
@@ -53,3 +55,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarkeforwork-coder&hide_border=true&background=010604&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffb0&currStreakNum=7dffb0&sideNums=7dffb0&dates=3f9c72" alt="GitHub streak" height="180" />
 
 </div>
+
+&nbsp;
+
+## `~/recent-activity`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

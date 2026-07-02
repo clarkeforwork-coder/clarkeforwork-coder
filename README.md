@@ -24,12 +24,11 @@
 
 ## 📊 &nbsp;GitHub Stats
 
-<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api?username=clarkeforwork-coder&show_icons=true&hide_border=true&count_private=true&card_width=420&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="Clarke's GitHub stats" height="165" />
-<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/top-langs/?username=clarkeforwork-coder&layout=compact&hide_border=true&card_width=340&bg_color=010604&title_color=00ff41&text_color=7dffb0" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api?username=clarkeforwork-coder&show_icons=true&hide_border=true&count_private=true&card_width=450&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="Clarke's GitHub stats" width="450" />
 
-<br/>
+<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/top-langs/?username=clarkeforwork-coder&layout=compact&hide_border=true&card_width=450&bg_color=010604&title_color=00ff41&text_color=7dffb0" alt="Top languages" width="450" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clarkeforwork-coder&hide_border=true&background=010604&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffb0&currStreakNum=7dffb0&sideNums=7dffb0&dates=3f9c72" alt="GitHub streak" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clarkeforwork-coder&hide_border=true&background=010604&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffb0&currStreakNum=7dffb0&sideNums=7dffb0&dates=3f9c72" alt="GitHub streak" width="450" />
 
 &nbsp;
 

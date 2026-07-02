@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=clarkeforwork-coder&show_icons=true&hide_border=true&count_private=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="Clarke's GitHub stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarkeforwork-coder&theme=chartreuse_dark" alt="Clarke's GitHub stats" height="200" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkeforwork-coder&layout=compact&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0" alt="Top languages" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarkeforwork-coder&theme=chartreuse_dark" alt="Top languages" height="200" />
 
 <br/><br/>
 

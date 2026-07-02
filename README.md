@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="header.gif" alt="Hello there, I'm Clarke — Backend Developer & Team Lead" width="800" />
 
 <br/>
@@ -10,13 +8,9 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=00ff41&style=for-the-badge&label=VISITORS" alt="Profile views" />
 
-</div>
-
 &nbsp;
 
 ## 🧰 &nbsp;Tech Stack
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />&nbsp;&nbsp;
@@ -26,45 +20,30 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="48" height="48" />
 
-</div>
-
 &nbsp;
 
 ## 📊 &nbsp;GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api?username=clarkeforwork-coder&show_icons=true&hide_border=true&count_private=true&card_width=420&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="Clarke's GitHub stats" height="165" />
+<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/top-langs/?username=clarkeforwork-coder&layout=compact&hide_border=true&card_width=340&bg_color=010604&title_color=00ff41&text_color=7dffb0" alt="Top languages" height="165" />
 
-<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api?username=clarkeforwork-coder&show_icons=true&hide_border=true&count_private=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="Clarke's GitHub stats" height="180" />
-&nbsp;
-<img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/top-langs/?username=clarkeforwork-coder&layout=compact&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0" alt="Top languages" height="180" />
+<br/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clarkeforwork-coder&hide_border=true&background=010604&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffb0&currStreakNum=7dffb0&sideNums=7dffb0&dates=3f9c72" alt="GitHub streak" height="180" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clarkeforwork-coder&hide_border=true&background=010604&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffb0&currStreakNum=7dffb0&sideNums=7dffb0&dates=3f9c72" alt="GitHub streak" height="165" />
 
 &nbsp;
 
 ## 🏆 &nbsp;Trophies
 
-<div align="center">
-
 <img src="https://github-profile-trophy-three-silk.vercel.app/?username=clarkeforwork-coder&theme=matrix&column=8&margin-w=8&margin-h=8&no-bg=true" alt="GitHub trophies" width="100%" />
-
-</div>
 
 &nbsp;
 
 ## 🖥 &nbsp;Featured Project
 
-<div align="center">
-
 <a href="https://github.com/clarkeforwork-coder/gmail-auto-classifter">
   <img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=gmail-auto-classifter&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="gmail-auto-classifter" />
 </a>
-
-</div>
 
 &nbsp;
 
@@ -83,28 +62,16 @@
 
 ## 🐍 &nbsp;Contribution Snake
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/clarkeforwork-coder/clarkeforwork-coder/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
-
-</div>
 
 &nbsp;
 
 ## 🎧 &nbsp;Now Playing
 
-<div align="center">
-
 <a href="https://novatorem-tawny-phi.vercel.app/redirect">
   <img src="https://novatorem-tawny-phi.vercel.app/api/spotify" alt="Spotify — now playing" width="500" />
 </a>
 
-</div>
-
 &nbsp;
 
-<div align="center">
-
 <img src="assets/taiwan-skyline.png" alt="Taipei skyline — Taiwan" width="100%" />
-
-</div>

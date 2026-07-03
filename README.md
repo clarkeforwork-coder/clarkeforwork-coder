@@ -64,12 +64,12 @@ Python     54 mins               █▒░░░░░░░░░░░░░�
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-2. Pushed to [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
-3. Created branch `main` in [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
-4. Pushed to [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
-5. Starred [clarkeforwork-coder/github-profile-trophy](https://github.com/clarkeforwork-coder/github-profile-trophy)
-6. Starred [clarkeforwork-coder/github-readme-stats](https://github.com/clarkeforwork-coder/github-readme-stats)
+1. Pushed to [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
+2. Created branch `main` in [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
+3. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
+4. Pushed to [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
+5. Created branch `main` in [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
+6. Pushed to [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
 <!--END_SECTION:activity-->
 
 &nbsp;

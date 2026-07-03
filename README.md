@@ -4,7 +4,7 @@
 
 </div>
 
-<a href="https://www.linkedin.com/in/yeh-clarke-879532143/"><img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-0a5c2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010604" alt="LinkedIn" /></a> &nbsp; <img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=0a5c2e&style=for-the-badge&label=%F0%9F%91%81%20Visitors" alt="Profile views" />
+<a href="https://clarkeforwork-coder.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0a5c2e?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=010604" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/yeh-clarke-879532143/"><img src="https://img.shields.io/badge/LinkedIn-Clarke%20Yeh-0a5c2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010604" alt="LinkedIn" /></a> &nbsp; <img src="https://komarev.com/ghpvc/?username=clarkeforwork-coder&color=0a5c2e&style=for-the-badge&label=%F0%9F%91%81%20Visitors" alt="Profile views" />
 
 &nbsp;
 
@@ -57,9 +57,7 @@ Python     54 mins               █▒░░░░░░░░░░░░░�
 
 ## 🖥 &nbsp;Featured Project
 
-<a href="https://github.com/clarkeforwork-coder/gmail-auto-classifter">
-  <img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=gmail-auto-classifter&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="gmail-auto-classifter" />
-</a>
+<a href="https://github.com/clarkeforwork-coder/portfolio"><img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=portfolio&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="portfolio" width="49%" /></a> <a href="https://github.com/clarkeforwork-coder/gmail-auto-classifter"><img src="https://github-readme-stats-ashy-seven-31.vercel.app/api/pin/?username=clarkeforwork-coder&repo=gmail-auto-classifter&hide_border=true&bg_color=010604&title_color=00ff41&text_color=7dffb0&icon_color=00ff9c" alt="gmail-auto-classifter" width="49%" /></a>
 
 &nbsp;
 

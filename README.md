@@ -35,9 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 16 hrs 28 mins
 
-No activity tracked
+Markdown   5 hrs 16 mins         ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+Java       3 hrs 12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+XML        3 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+HTML       1 hr 44 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Gosu       1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Python     54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->

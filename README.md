@@ -65,11 +65,6 @@ HTML         1 hr 44 mins          █▒░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. Pushed to [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
-2. Created branch `main` in [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
-3. Pushed to [clarkeforwork-coder/clarkeforwork-coder](https://github.com/clarkeforwork-coder/clarkeforwork-coder)
-4. Pushed to [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
-5. Created branch `main` in [clarkeforwork-coder/portfolio](https://github.com/clarkeforwork-coder/portfolio)
-6. Pushed to [clarkeforwork-coder/gmail-auto-classifter](https://github.com/clarkeforwork-coder/gmail-auto-classifter)
 <!--END_SECTION:activity-->
 
 &nbsp;

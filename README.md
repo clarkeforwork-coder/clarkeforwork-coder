@@ -64,9 +64,11 @@ Git Config   15 mins               ▒░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed to [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
-2. Created branch `main` in [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
-3. Pushed to [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
+1. Created branch `main` in [clarkeforwork-coder/knowledge-template](https://github.com/clarkeforwork-coder/knowledge-template)
+2. Created branch `main` in [clarkeforwork-coder/knowledge-software-architecture](https://github.com/clarkeforwork-coder/knowledge-software-architecture)
+3. Pushed to [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
+4. Created branch `main` in [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
+5. Pushed to [clarkeforwork-coder/knowledge-java](https://github.com/clarkeforwork-coder/knowledge-java)
 <!--END_SECTION:activity-->
 
 &nbsp;

@@ -68,7 +68,6 @@ JavaScript   1 hr 6 mins           █░░░░░░░░░░░░░░
 2. Pushed to [clarkeforwork-coder/knowledge-software-architecture](https://github.com/clarkeforwork-coder/knowledge-software-architecture)
 3. Created branch `main` in [clarkeforwork-coder/knowledge-template](https://github.com/clarkeforwork-coder/knowledge-template)
 4. Created branch `main` in [clarkeforwork-coder/knowledge-software-architecture](https://github.com/clarkeforwork-coder/knowledge-software-architecture)
-5. Created branch `main` in [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
 <!--END_SECTION:activity-->
 
 &nbsp;

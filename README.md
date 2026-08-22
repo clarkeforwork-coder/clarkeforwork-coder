@@ -64,8 +64,6 @@ YAML       1 hr 4 mins           ██▓░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. Starred [samzhu/topplecat](https://github.com/samzhu/topplecat)
-2. Pushed to [clarkeforwork-coder/knowledge-spring](https://github.com/clarkeforwork-coder/knowledge-spring)
-3. Pushed to [clarkeforwork-coder/knowledge-software-architecture](https://github.com/clarkeforwork-coder/knowledge-software-architecture)
 <!--END_SECTION:activity-->
 
 &nbsp;

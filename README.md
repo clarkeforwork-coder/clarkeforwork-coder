@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 39 mins
+Total Time: 8 hrs 11 mins
 
-Markdown   5 hrs 37 mins         ███████████▓░░░░░░░░░░░░░   46.26 %
-Java       2 hrs 4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-YAML       1 hr 39 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Other      1 hr 29 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Text       1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Markdown   4 hrs 25 mins         ███████████▒░░░░░░░░░░░░░   45.75 %
+Other      1 hr 28 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Java       1 hr 23 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Text       1 hr 18 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+YAML       1 hr 4 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
 ```
 
 <!--END_SECTION:waka-->

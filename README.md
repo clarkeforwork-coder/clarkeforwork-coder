@@ -35,14 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 27 mins
+Total Time: 20 hrs 40 mins
 
-Java         9 hrs 14 mins         ████████▓░░░░░░░░░░░░░░░░   34.26 %
-Markdown     4 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-JavaScript   3 hrs 55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Other        3 hrs 29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-YAML         2 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Python       1 hr 46 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Java         8 hrs 15 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Markdown     4 hrs 30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+JavaScript   3 hrs 55 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+Other        3 hrs 31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+YAML         2 hrs 3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Python       59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->

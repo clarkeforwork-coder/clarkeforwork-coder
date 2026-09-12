@@ -64,7 +64,7 @@ Text         31 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Starred [samzhu/topplecat](https://github.com/samzhu/topplecat)
+_No recent public activity._
 <!--END_SECTION:activity-->
 
 &nbsp;

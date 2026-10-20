@@ -35,14 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 17 mins
+Total Time: 4 hrs 23 mins
 
-Other        5 hrs 40 mins         ██████████████▒░░░░░░░░░░   56.93 %
-Markdown     2 hrs 43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-Python       1 hr 19 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-JSON         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Java         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        6 hrs 53 mins         ███████████████▒░░░░░░░░░   61.06 %
+Markdown     2 hrs 48 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Python       1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+JSON         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

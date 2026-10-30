@@ -64,7 +64,7 @@ Python       12 mins               ▒░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-_No recent public activity._
+1. Created branch `main` in [clarkeforwork-coder/skillsHub](https://github.com/clarkeforwork-coder/skillsHub)
 <!--END_SECTION:activity-->
 
 &nbsp;

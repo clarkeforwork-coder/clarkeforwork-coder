@@ -64,7 +64,9 @@ Python       30 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Created branch `main` in [clarkeforwork-coder/skillsHub](https://github.com/clarkeforwork-coder/skillsHub)
+1. Merged PR #1 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+2. Opened PR #1 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+3. Created branch `main` in [clarkeforwork-coder/skillsHub](https://github.com/clarkeforwork-coder/skillsHub)
 <!--END_SECTION:activity-->
 
 &nbsp;

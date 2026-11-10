@@ -64,12 +64,12 @@ Python       30 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
-2. Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-3. Created branch `main` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-4. Merged PR #1 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-5. Opened PR #1 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-6. Created branch `main` in [clarkeforwork-coder/skillsHub](https://github.com/clarkeforwork-coder/skillsHub)
+1. Merged PR #4 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+2. Opened PR #4 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+3. Merged PR #3 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+4. Opened PR #3 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+5. Merged PR #2 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+6. Opened PR #2 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 <!--END_SECTION:activity-->
 
 &nbsp;

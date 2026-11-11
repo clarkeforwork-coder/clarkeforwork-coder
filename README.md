@@ -64,12 +64,12 @@ Python       30 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Created branch `java/enrichment` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-2. Merged PR #4 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-3. Opened PR #4 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-4. Merged PR #3 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-5. Opened PR #3 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-6. Merged PR #2 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+1. Merged PR #7 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+2. Opened PR #7 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+3. Merged PR #6 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+4. Opened PR #6 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+5. Merged PR #5 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+6. Opened PR #5 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 <!--END_SECTION:activity-->
 
 &nbsp;

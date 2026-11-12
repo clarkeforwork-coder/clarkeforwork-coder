@@ -64,12 +64,12 @@ Python       30 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Opened PR #11 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-2. Pushed to [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-3. Merged PR #10 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-4. Opened PR #10 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-5. Merged PR #9 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-6. Opened PR #9 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+1. Pushed to [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+2. Commented on #11 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+3. Opened PR #11 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+4. Merged PR #10 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+5. Opened PR #10 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+6. Merged PR #9 in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 <!--END_SECTION:activity-->
 
 &nbsp;

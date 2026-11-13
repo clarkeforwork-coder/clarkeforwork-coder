@@ -64,8 +64,8 @@ Python       30 mins               ▓░░░░░░░░░░░░░░
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. Created branch `docs/governance` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
-2. Pushed to [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+1. Pushed to [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
+2. Created branch `docs/governance` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 3. Created branch `tools/java-ci` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 4. Created branch `tools/java-precommit` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
 5. Created branch `docs/anchor-cleanup` in [clarkeforwork-coder/dev-rule](https://github.com/clarkeforwork-coder/dev-rule)
